@@ -1,5 +1,6 @@
 # www.se8.net
 永久发布页|se8有你,迎你回家
+<img width="1536" height="1024" alt="logo" src="https://github.com/user-attachments/assets/8146944b-4928-4b40-bc6a-b73b9aaddcf1" />
 
 http://www.se8-a1.sbs
 
@@ -9,8 +10,7 @@ http://www.se8-a3.sbs
 
 http://www.se8-a4.sbs
 
-http://www.se8-a5.sbs![Uploading logo.png…]()
-
+http://www.se8-a5.sbs
 
 http://www.se8-a6.sbs
 
