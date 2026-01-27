@@ -1,6 +1,9 @@
 # www.se8.net官网_永久发布页|se8有你,迎你回家
 <img width="1536" height="1024" alt="logo" src="https://github.com/user-attachments/assets/8146944b-4928-4b40-bc6a-b73b9aaddcf1" />
-
+![GitHub stars](https://img.shields.io/github/stars/se8net/www.se8.net?style=social)
+![GitHub forks](https://img.shields.io/github/forks/se8net/www.se8.net?style=social)
+![GitHub issues](https://img.shields.io/github/issues/se8net/www.se8.net)
+![Visitor Count](https://api.visitorbadge.io/api/visitors?path=se8net/www.se8.net&countColor=%23263759)
 # ⛔ 更新说明
 2016-1-28
 
