@@ -1,7 +1,6 @@
-# www.se8.net
+# www.se8.net官网_永久发布页|se8有你,迎你回家
 <img width="1536" height="1024" alt="logo" src="https://github.com/user-attachments/assets/8146944b-4928-4b40-bc6a-b73b9aaddcf1" />
 
-# www.se8.net官网_永久发布页|se8有你,迎你回家
 # 🖥️ 网站介绍
 
 一款专为隐私保护视频与本地内容管理而设计的多功能在线播放平台，集视频播放、视频处理、加密存储、小说阅读于一体，安全、稳定、易用，让您的重要内容不再泄露。
