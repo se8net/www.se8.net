@@ -2,7 +2,7 @@
 <img width="1536" height="1024" alt="logo" src="https://github.com/user-attachments/assets/8146944b-4928-4b40-bc6a-b73b9aaddcf1" />
 
 # ⛔ 更新说明
-
+2016-1-28
 本站正在更换节点。现在的播放源对移动网络非常不优化，过一周左右就可以了，不要着急。
 
 技术人员也在抓紧更新其他内容（影片下载/小说下载/论坛信息交流等等）
