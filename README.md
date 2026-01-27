@@ -272,14 +272,11 @@ http://www.se8-i9.sbs
 #se8net官方网站最新版本更新内容分享
 #se8net登录不了怎么办
 #se8net最新版本更新内容介绍下载
-
-[GitHub stars](https://img.shields.io/github/stars/se8net/www.se8.net?style=social)
-[GitHub forks](https://img.shields.io/github/forks/se8net/www.se8.net?style=social)
-[GitHub issues](https://img.shields.io/github/issues/se8net/www.se8.net)
-[Visitor Count](https://api.visitorbadge.io/api/visitors?path=se8net/www.se8.net&countColor=%23263759)
-
 #se8net官方下载
 #se8net官方下载
 #se8nn官网登录入口
 #se8net官方
 #se8免费登录入口
+
+[Visitor Count](https://api.visitorbadge.io/api/visitors?path=se8net/www.se8.net&countColor=%23263759)
+
