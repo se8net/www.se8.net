@@ -43,49 +43,7 @@
 ‼️重要提醒‼️：请立即收藏本页面，避免走丢！
 
 # 🖥️镜像站点
-
-[https://v.1qwer.sbs/
-https://v.2qwer.sbs/
-https://v.3qwer.sbs/
-https://v.4qwer.sbs/
-https://v.5qwer.sbs/
-https://v.6qwer.sbs/
-https://v.7qwer.sbs/
-https://v.8qwer.sbs/
-https://v.9qwer.sbs/
-https://v.10qwer.sbs/
-https://v.11qwer.sbs/
-https://v.12qwer.sbs/
-https://v.13qwer.sbs/
-https://v.14qwer.sbs/
-https://v.15qwer.sbs/
-https://v.16qwer.sbs/
-https://v.17qwer.sbs/
-https://v.18qwer.sbs/
-https://v.19qwer.sbs/
-https://v.20qwer.sbs/
-https://v.21qwer.sbs/
-https://v.22qwer.sbs/
-https://v.23qwer.sbs/
-https://v.24qwer.sbs/
-https://v.25qwer.sbs/
-https://v.26qwer.sbs/
-https://v.27qwer.sbs/
-https://v.28qwer.sbs/
-https://v.29qwer.sbs/
-https://v.30qwer.sbs/
-https://v.31qwer.sbs/
-https://v.32qwer.sbs/
-https://v.33qwer.sbs/
-https://v.34qwer.sbs/
-https://v.35qwer.sbs/
-https://v.36qwer.sbs/
-https://v.37qwer.sbs/
-https://v.38qwer.sbs/
-https://v.39qwer.sbs/
-https://v.40qwer.sbs/
-https://v.41qwer.sbs/
-https://v.42qwer.sbs/](https://v.1qwer.sbs/
+https://v.1qwer.sbs/
 
 https://v.2qwer.sbs/
 
