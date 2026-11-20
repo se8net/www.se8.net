@@ -44,7 +44,7 @@
 
 # 🖥️镜像站点
 
-   'https://v.1qwer.sbs/
+[https://v.1qwer.sbs/
 https://v.2qwer.sbs/
 https://v.3qwer.sbs/
 https://v.4qwer.sbs/
@@ -85,7 +85,26 @@ https://v.38qwer.sbs/
 https://v.39qwer.sbs/
 https://v.40qwer.sbs/
 https://v.41qwer.sbs/
-https://v.42qwer.sbs/
+https://v.42qwer.sbs/](https://v.1qwer.sbs/
+
+https://v.2qwer.sbs/
+
+https://v.3qwer.sbs/
+
+https://v.4qwer.sbs/
+
+https://v.5qwer.sbs/
+
+
+https://v.6qwer.sbs/
+
+https://v.7qwer.sbs/
+
+https://v.8qwer.sbs/
+
+https://v.9qwer.sbs/
+
+https://v.10qwer.sbs/
 
 # 📖关键词标签
 #se8隐藏路线入口最新版更新内容
